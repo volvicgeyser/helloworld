@@ -1,13 +1,13 @@
-�l�^�ŏ������n���[���[���h�W�ł�
+ネタで書いたハローワールド集です
 These helloworld code are crazy.
 
-�R���p�C����I�т܂��BGCC��ideone�œ���m�F�ς݁B
+コンパイラを選びます。GCCとideoneで動作確認済み。
 
 
-����F�F�X�ȗ\��
+言語：色々な予定
 
 
-���쌠�ƃ��C�Z���X
+著作権とライセンス
 Copyright & License
 
 Copyright (c) 2012, Volvic Geyser
